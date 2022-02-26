@@ -6,5 +6,7 @@
   "tabSize": 2,
   "useTab": true,
   "trashOption": "system",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "showFrontmatter": true,
+  "promptDelete": false
 }
